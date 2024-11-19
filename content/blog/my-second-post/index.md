@@ -1,13 +1,25 @@
 ---
-title: My Second Post!
+title: Silly Seals
 date: "2015-05-06T23:46:37.121Z"
 ---
 
-Wow! I love blogging so much already.
+# Silly Seals
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+Seals, like all organisms, they do not always follow the rules.
 
-Yeah, I didn't either.
+### Ribbon Seals
+
+While sexual dimorphism is not unique to ribbon seals, they have a very interesting pattern that makes them unique.  These seals have stripes or *ribbons*.
+
+|    Sex    | Coloring       |   
+| :----- | :---------------------------------------: |
+| Male     | Black Body|
+|   | White Stripes | 
+| Female     | Brown Body | 
+|  | Tan Stripes| 
+
+
+
+> [NOAA Information on Ribbon Seals ](https://www.fisheries.noaa.gov/species/ribbon-seal)
+
+
