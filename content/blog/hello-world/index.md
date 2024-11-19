@@ -1,10 +1,9 @@
 ---
-title: Hello World
+title: Seal Vs Sea lion
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
+# Perplexing Pinnepeds
 
 I'm sure I'll write a lot more interesting things in the future.
 
@@ -23,9 +22,7 @@ Oh, and here's a great quote from this Wikipedia on
 
 You can also write code blocks here!
 
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
+
 
 | Number | Title                                    | Year |
 | :----- | :--------------------------------------- | ---: |
