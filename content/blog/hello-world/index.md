@@ -41,6 +41,14 @@ Harbor Seal Example
 > You can see the claws very well!
 ![Full body of seal](./seal_fullbody.JPG)
 
+Hawaiian Monk Seal Example
+> These seals are very endangered.
+![seal body on the ground](./seal_bodyontheground.jpg)
+
+Male California Sea Lion
+> The ears are very visible here.
+> Fun fact! I took this picture.
+![male sea lion ears](./https://github.com/sstafa/gatsby-starter-blog/blob/master/content/blog/hello-world/sealion_ears.JPG)
 
 
 
