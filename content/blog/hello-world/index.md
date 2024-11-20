@@ -36,18 +36,26 @@ Pinnepeds are a clade of mammal that contain 3 super families.
 > Walruses move in a similar way to fur seals and sea lions but they have internal ears.
 
 #### Images/ Examples
+<hr></hr>
 
 Harbor Seal Example 
 > You can see the claws very well!
+> 
 ![Full body of seal](./seal_fullbody.JPG)
+
+
 
 Hawaiian Monk Seal Example
 > These seals are very endangered.
+> 
 ![seal body on the ground](./seal_bodyontheground.jpg)
+
+
 
 Male California Sea Lion
 > The ears are very visible here.
 > Fun fact! I took this picture.
+> 
 ![male sea lion ears](./sealion_ears.JPG)
 
 
