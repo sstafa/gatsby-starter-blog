@@ -5,7 +5,7 @@ date: "2015-05-01T22:12:03.284Z"
 
 # Perplexing Pinnepeds
 
-Pinnepeds are a clade of mammal that contain 3 families.
+Pinnepeds are a clade of mammal that contain 3 super families.
 
 **Odobenidae** - Walrus
 
