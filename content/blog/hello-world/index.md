@@ -31,9 +31,16 @@ Pinnepeds are a clade of mammal that contain 3 super families.
 |       | Small flippers |  
 |      | Claws |  
 
-[More informaiton ](https://oceanservice.noaa.gov/facts/seal-sealion.html).
+[More informaiton ](https://oceanservice.noaa.gov/facts/seal-sealion.html)
 
 < Walruses move in a similar way to fur seals and sea lions but they have internal ears.
+
+#### Images/ Examples
+
+Harbor Seal Example 
+> You can see the claws very well!
+![Full body of seal](./seal_fullbody.JPG)
+
 
 
 
