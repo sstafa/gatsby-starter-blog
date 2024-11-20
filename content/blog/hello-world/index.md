@@ -13,6 +13,17 @@ Pinnepeds are a clade of mammal that contain 3 super families.
 
 **Phocidae** - Seals
 
+*Walruses are very easy to identify and point out since they have gigantic tusks.*
+
+### Seals or Sea Lion: A Sealious Problem
+
+> Sea Lions and Fur Seals are very similar and the lists of traits below apply for fur seals as well.
+
+| Creature | Trait                                  | 
+| :----- | :-----------------------------------------:| 
+| 1      | Harry Potter and the Philosopher’s Stone | 
+| 2      | Harry Potter and the Chamber of Secrets  |  
+| 3      | Harry Potter and the Prisoner of Azkaban |  
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
