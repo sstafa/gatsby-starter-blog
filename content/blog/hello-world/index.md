@@ -5,7 +5,14 @@ date: "2015-05-01T22:12:03.284Z"
 
 # Perplexing Pinnepeds
 
-I'm sure I'll write a lot more interesting things in the future.
+Pinnepeds are a clade of mammal that contain 3 families.
+
+**Odobenidae** - Walrus
+
+**Otariidae** - Fur Seals and Sea Lions
+
+**Phocidae** - Seals
+
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
