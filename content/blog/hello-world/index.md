@@ -59,5 +59,13 @@ Male California Sea Lion
 ![male sea lion ears](./sealion_ears.JPG)
 
 
+This is a fur seal
+> This one is just a baby!
+>
+![image](https://github.com/user-attachments/assets/dbbb7eca-6a82-4907-b083-e8e6a9958635)
+
+
+
+
 
 
