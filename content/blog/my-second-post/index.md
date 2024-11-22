@@ -18,8 +18,13 @@ While sexual dimorphism is not unique to ribbon seals, they have a very interest
 | Female     | Brown Body | 
 |  | Tan Stripes| 
 
-
+These seals also play dead when scared which is unique to them completely.
 
 > [NOAA Information on Ribbon Seals ](https://www.fisheries.noaa.gov/species/ribbon-seal)
 
 
+### Crabeater Seals
+
+These seals do not move on land like other seals do.  They slither instead of bounce.
+
+[![crabeater movement](https://img.youtube.com/vi/AZe_0_vveSs/0.jpg)](https://www.youtube.com/watch?v=AZe_0_vveSs)
